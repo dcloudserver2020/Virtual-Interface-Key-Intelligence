@@ -1,6 +1,0 @@
-D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\WindowStatus\bin\Debug\WindowStatus.exe.config
-D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\WindowStatus\bin\Debug\WindowStatus.exe
-D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\WindowStatus\bin\Debug\WindowStatus.pdb
-D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\WindowStatus\obj\Debug\WindowStatus.csproj.CoreCompileInputs.cache
-D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\WindowStatus\obj\Debug\WindowStatus.exe
-D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\WindowStatus\obj\Debug\WindowStatus.pdb
