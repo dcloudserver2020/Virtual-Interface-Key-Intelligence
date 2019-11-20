@@ -1,0 +1,11 @@
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.dll
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.pdb
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\bin\Debug\Data Access Layer.dll
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\bin\Debug\Newtonsoft.Json.dll
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\bin\Debug\Data Access Layer.pdb
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\bin\Debug\Newtonsoft.Json.xml
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csprojAssemblyReference.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+O:\GIT\Virtual-Interface-Key-Intelligence\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb

@@ -1,0 +1,13 @@
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.csprojAssemblyReference.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.Properties.Resources.resources
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.User_Interface.Recorder.resources
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.csproj.GenerateResource.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.csproj.CoreCompileInputs.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\bin\Debug\Screen_Navigator.exe.config
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\bin\Debug\Screen_Navigator.exe
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\bin\Debug\Screen_Navigator.pdb
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.exe
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.pdb
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\bin\Debug\Newtonsoft.Json.dll
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\bin\Debug\Newtonsoft.Json.xml
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Navigator\obj\Debug\Screen_Navigator.csproj.CopyComplete

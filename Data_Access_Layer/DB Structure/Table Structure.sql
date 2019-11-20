@@ -1,0 +1,17 @@
+CREATE DATABASE STOCK_DATA;
+
+
+CREATE TABLE dbo.SMSMaster 
+	(
+    [SMSID] INT PRIMARY KEY IDENTITY(1,1),
+	[MsgID] VARCHAR(50),
+	[SMSType] VARCHAR(5),
+	[RcvdDate] VARCHAR(10),
+	[RcvdFrom] VARCHAR(100),
+	[Subject] VARCHAR(1000),
+	[Body] VARCHAR(5000),
+	[Isactive] BIT
+	);
+
+--SELECT * FROM SMSMaster
+	

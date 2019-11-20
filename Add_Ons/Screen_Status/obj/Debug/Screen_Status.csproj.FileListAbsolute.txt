@@ -1,0 +1,17 @@
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe.config
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.pdb
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csproj.CoreCompileInputs.cache
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.exe
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.pdb
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csprojAssemblyReference.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe.config
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\bin\Debug\WindowStatus.pdb
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\bin\Debug\Newtonsoft.Json.dll
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\bin\Debug\Newtonsoft.Json.xml
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csprojAssemblyReference.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csproj.CoreCompileInputs.cache
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csproj.CopyComplete
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\obj\Debug\WindowStatus.exe
+O:\GIT\Virtual-Interface-Key-Intelligence\Add_Ons\Screen_Status\obj\Debug\WindowStatus.pdb
